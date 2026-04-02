@@ -33,9 +33,9 @@ Performance metrics include:
 
 ## Experiments
 
-- To perform LLM outouts moderation via automated evaluators, please follow the instructions in [`Automated_evaluator_moderation.ipynb`](Automated_evaluator_moderation.ipynb).
+- To moderate the targeted model outputs via automated evaluators, please follow the instructions in [`Automated_evaluator_moderation.ipynb`](Automated_evaluator_moderation.ipynb).
 
- - To assess the human-machine agreeement, refer to the instructions provided in [`Inter_agreement_metrics.ipynb`](Inter_agreement_metrics.ipynb) file.
+ - To assess human-machine agreement, refer to the instructions provided in [`Inter_agreement_metrics.ipynb`](Inter_agreement_metrics.ipynb) file.
 
 ---
 
