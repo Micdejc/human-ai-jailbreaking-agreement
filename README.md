@@ -2,6 +2,8 @@
 
 This repository provides code, datasets, and analysis scripts for systematically assessing the alignment between automated LLM evaluators and human judgments under multi-turn conversational scenarios in cybersecurity.
 
+This study builds upon **[Grammatical Mirage Attack](https://github.com/Micdejc/llm_multiturn_attacks/)** for perform the multi-turn attacks against targeted models.
+
 ---
 
 ## 📄 Overview
@@ -32,7 +34,6 @@ Performance metrics include:
 ## 🔑 Key Findings
 
 - **Weak human–machine alignment**: Automated evaluators have κ values **below 0.36** across all multi-turn conditions.  
-- **F1-score can be misleading**: GPT-based evaluators achieve moderately high F1-scores (0.42–0.72), which **obscures misalignment with human judgment**.  
 - **Temporal prompt impact**: Past-tense prompts significantly reduce agreement (κ drops by 0.11–0.48).
 - **Malware-related prompts are the most challenging**: Across cybersecurity topics, malware discussions show the **lowest evaluator reliability**, highlighting domain-specific challenges.  
 
@@ -40,4 +41,6 @@ Performance metrics include:
 
 ---
 
-## 📦 Repository Contents
+## Ethical Consideration
+
+This project is intended solely for research purposes and must not be used for malicious, harmful, or unethical activities.
