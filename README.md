@@ -6,7 +6,7 @@ This study extends the **[Grammatical Mirage Attack](https://github.com/Micdejc/
 
 ---
 
-## 📄 Overview
+## Overview
 
 Automated evaluation of LLM safety and jailbreak resilience is increasingly common, yet its agreement with human judgment remains uncertain, especially for **multi-turn dialogues** and **temporal variations** in prompts.
 
@@ -27,11 +27,19 @@ against **human annotators** across:
 Performance metrics include:
 
 - **Cohen’s κ** for inter-annotator agreement  
-- **F1-score** as a complementary measure  
+- **F1-score** as a complementary measure
 
 ---
 
-## 🔑 Key Findings
+## Experiments
+
+- To perform LLM outouts moderation via automated evaluators, please follow the instructions in [`Automated_evaluator_moderation.ipynb`](Automated_evaluator_moderation.ipynb).
+
+ - To assess the human-machine agreeement, refer to the instructions provided in [`Inter_agreement_metrics.ipynb`](Inter_agreement_metrics.ipynb) file.
+
+---
+
+## Key Findings
 
 - **Weak human–machine alignment**: Automated evaluators have κ values **below 0.36** across all multi-turn conditions.  
 - **Temporal prompt impact**: Past-tense prompts significantly reduce agreement (κ drops by 0.11–0.48).
