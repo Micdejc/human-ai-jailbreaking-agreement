@@ -2,7 +2,7 @@
 
 This repository provides code, datasets, and analysis scripts for systematically assessing the alignment between automated LLM evaluators and human judgments under multi-turn conversational scenarios in cybersecurity.
 
-This study builds upon **[Grammatical Mirage Attack](https://github.com/Micdejc/llm_multiturn_attacks/)** for perform the multi-turn attacks against targeted models.
+This study extends the **[Grammatical Mirage Attack](https://github.com/Micdejc/llm_multiturn_attacks/)** framework to execute multi-turn attacks on the target models.
 
 ---
 
