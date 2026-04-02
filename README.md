@@ -42,7 +42,7 @@ Performance metrics include:
 ## Key Findings
 
 - **Weak human–machine alignment**: Automated evaluators have κ values **below 0.36** across all multi-turn conditions.  
-- **Temporal prompt impact**: Past-tense prompts significantly reduce agreement (κ drops by 0.11–0.48).
+- **Temporal prompt impact**: Past-tense prompts significantly reduce agreement.
 - **Malware-related prompts are the most challenging**: Across cybersecurity topics, malware discussions show the **lowest evaluator reliability**, highlighting domain-specific challenges.  
 
 **Conclusion:** Current automated evaluators are insufficiently aligned with human judgment, highlighting the need for **human-centered evaluation** in multi-turn jailbreak benchmarking.
