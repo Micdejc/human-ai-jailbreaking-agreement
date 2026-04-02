@@ -31,12 +31,10 @@ Performance metrics include:
 
 ## 🔑 Key Findings
 
-- **Strong inter-human agreement**: Human annotators consistently show substantial agreement.  
 - **Weak human–machine alignment**: Automated evaluators have κ values **below 0.36** across all multi-turn conditions.  
 - **F1-score can be misleading**: GPT-based evaluators achieve moderately high F1-scores (0.42–0.72), which **obscures misalignment with human judgment**.  
 - **Temporal prompt impact**: Past-tense prompts significantly reduce agreement (κ drops by 0.11–0.48).
 - **Malware-related prompts are the most challenging**: Across cybersecurity topics, malware discussions show the **lowest evaluator reliability**, highlighting domain-specific challenges.  
-- **No reliable evaluator**: No automated evaluator reaches κ ≥ 0.40 across aggregated cybersecurity topics.  
 
 **Conclusion:** Current automated evaluators are insufficiently aligned with human judgment, highlighting the need for **human-centered evaluation** in multi-turn jailbreak benchmarking.
 
