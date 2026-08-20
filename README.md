@@ -31,6 +31,9 @@ Performance metrics include:
 
 ---
 
+## Updates
+- (2026-07-18) Paper was accepted at the 13th  International Symposium on Networks, Computers and Communications (ISNCC'26), to be held at Bristol, UK from September 8–10, 2026.
+
 ## Experiments
 
 - To moderate the targeted model outputs via automated evaluators, please follow the instructions in [`Automated_evaluator_moderation.ipynb`](Automated_evaluator_moderation.ipynb).
