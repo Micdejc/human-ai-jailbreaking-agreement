@@ -32,6 +32,7 @@ Performance metrics include:
 ---
 
 ## Updates
+- (2026-09-22) The paper is now officially available! Check it out [here](https://doi-org.uwe.idm.oclc.org/10.1109/ISNCC70543.2026.11693865)
 - (2026-09-08) The paper was presented at the 13th International Symposium on Networks, Computers and Communications (ISNCC 2026) in Bristol, UK. LinkedIn Post: [Here](https://www.linkedin.com/posts/michael-tchuindjang-38829317b_isncc2026-cybersecurity-ai-ugcPost-7503123171471003648-3glB/)
 - (2026-07-18) Paper was accepted at the 13th  International Symposium on Networks, Computers and Communications (ISNCC'26), to be held at Bristol, UK from September 8–10, 2026.
 
